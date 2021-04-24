@@ -21,3 +21,7 @@ but the problem is you can add same student twise and it still counting as stude
 This is our part 3 final step, but we cant find student by name because student is counting by uint256.
 
 ![Supply Image](Images/four.gif)
+
+Aslo, if you want to see student count in private, you can use "internal" and below is the example.
+
+![Supply Image](Images/five.gif)
