@@ -34,3 +34,5 @@ Aslo, if you want to see student count in private, you can use "internal" and be
 We can check that it is working. We will see it as below.
 
 you can see that is not working, because we havent set the owner yet.
+
+![Supply Image](Images/six.gif)
